@@ -9,7 +9,7 @@ Entrega média: O sistema não permite cadastrar consumidores com e-mail inváli
 
 Entrega Máxima: O sistema permite pesquisar todas as faturas de um consumidor através de seu e-mail.
 
-OBS: Todo consumidor pode ser pessoa física ou pessoa jurídica
+OBS: Todo consumidor pode ser pessoa física ou pessoa jurídica.
 */
 package br.com.zup.Lista8ExercicioFatura;
 
